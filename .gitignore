@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.ftppass
+node_modules
+dist
+BookshelfDev
+.tmp
+tmp
+.sass-cache
+app/bower_components
+/*.iml
+/test-results.xml
+
+*.log

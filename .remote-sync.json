@@ -1,0 +1,12 @@
+{
+  "uploadOnSave": false,
+  "hostname": "just72.justhost.com",
+  "port": "22",
+  "target": "/home2/chrisuk7/public_html/",
+  "ignore": [
+    ".git/**"
+  ],
+  "username": "chrisuk7",
+  "password": "Swaz3r#s",
+  "transport": "scp"
+}
